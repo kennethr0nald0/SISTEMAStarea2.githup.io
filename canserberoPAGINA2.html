@@ -1,0 +1,18 @@
+<html>
+<head>
+<titlte>Información personal</title>
+</head>
+<body background="fondo.jpg">
+<pre>
+<center> <font face="Book Antiqua" size=4.56 color="white "> hablemos sobre la música de Canserbero. Este rapero venezolano, cuyo nombre real es
+  Tyrone González, es conocido por su lírica profunda y reflexiva, así como por su estilo único que fusiona el rap con elementos del rock y el reggae.
+  Su música a menudo aborda temas como la vida, la muerte, la injusticia social, la política y las luchas personales.</font></center>
+
+  <center><font face="Felix Titling" size=6 <color="white "> ALGUNOS ALBUMES DE CANSERBERO MAS FAMOSOS SON:</font></center>
+
+
+
+
+
+<a href="CANSERBERO_OFICIAL.html"><img src="muerte_album.jpg" width=50 height=50></img>
+</a>
